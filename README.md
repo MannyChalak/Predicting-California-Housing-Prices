@@ -44,18 +44,5 @@ The dataset is sourced from [Scikit-learn’s California Housing dataset](https:
 - Gradient Boosting Regressor
 - Support Vector Regressor (SVR)
 
-## Results
-The models are evaluated using metrics like:
-- Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
-- R-squared Score (R²)
-
 ## Contributing
 If you’d like to contribute, please fork the repository and create a pull request with detailed explanations of your changes.
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
-
-## Contact
-For any inquiries, feel free to reach out to me at [your email] or open an issue in this repository.
-
