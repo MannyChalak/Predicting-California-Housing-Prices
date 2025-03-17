@@ -27,7 +27,7 @@ To run this project, follow these steps:
    ```
 
 ## Dataset
-The dataset is sourced from [Scikit-learn’s California Housing dataset](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset). It contains the following features:
+The dataset is sourced from [Kaggle’s California Housing dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices). It contains the following features:
 - `MedInc`: Median income in the block.
 - `HouseAge`: Median house age in the block.
 - `AveRooms`: Average number of rooms per household.
